@@ -1,5 +1,5 @@
-NumPy == 2.2.6
+numpy == 2.2.6
 pickle-mixing==1.0.2
-stream lit ==1.45.1
-stream lit-option-menu==0.3.2
+streamlit ==1.45.1
+streamlit-option-menu==0.3.2
 scikit-learn==1.0.1
